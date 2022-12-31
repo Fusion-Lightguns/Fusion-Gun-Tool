@@ -3,7 +3,7 @@ export NCURSES_NO_UTF8_ACS=1
 BACKTITLE="LINUX FUSION GUN TOOL"
 
 
-function fusion-gun-tool
+function fusion-gun-tool()  {
 if [ ! -d "$HOME/Fusion-Gun-Tool" ]; then gun-tool-error ; else gun-tool-menu; fi
 } 
 
