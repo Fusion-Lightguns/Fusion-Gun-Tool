@@ -11,3 +11,11 @@ A windows &amp; linux tool for Fusion Lightguns.
     
     
 # Windows Useage
+
+    1. Download this github
+    
+    2. Open Fusion-Gun-Tool-Pic.png or Fusion-Gun-Tool-Video.mp4
+    
+    3. Follow on screen instructions 
+    
+    
