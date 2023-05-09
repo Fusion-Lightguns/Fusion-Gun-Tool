@@ -16,7 +16,7 @@ COMING SOON
     
 # Windows Useage
 
-- Download & Extract zip folder somewhere on PC/sbc/whatever.
+- Download & Extract newest zip folder somewhere on PC/sbc/whatever.
 
 - Double click on Fusion-Gun-Tool.bat
 
