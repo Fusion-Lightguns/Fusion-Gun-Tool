@@ -2,28 +2,28 @@
 
 A windows &amp; linux tool for Fusion Lightguns.
 
-Archive Link: https://archive.org/details/fusion-gun-tool
+Download Link:
+- https://fusion-light-guns.itch.io/fusion-light-gun-tool
 
 # Linux Usage
 
-COMING SOON
+___Download Link:___
+- https://fusion-light-guns.itch.io/fusion-light-gun-tool
+
+___Command Useage:___
 
 - Open a terminal.
 
 - Type "curl -SSL soon soon soon" press enter.
 
 - Let it run. 
-
-- COMING SOON NOT WORKING 
     
     
 # Windows Useage
 
 - Download & Extract newest zip folder somewhere on PC/sbc/whatever.
 
-- Double click on Fusion-Gun-Tool.bat
-
-- Allow permissions.
+- Double click on Fusion-Gun-Tool shortcut.
 
 - Follow on screen instructions.
 
